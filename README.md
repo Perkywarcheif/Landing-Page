@@ -20,4 +20,3 @@ Open index.html in your browser or use Live Server in VS Code to view the projec
 ---
 
 Feel free to customize it with your name or GitHub link!
-Let me know if you want to add *screenshots* or a *GitHub Pages live link*.

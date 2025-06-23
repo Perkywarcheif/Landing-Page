@@ -1,5 +1,3 @@
-# Landing-Page
-A Responsive Landing Page using HTML & CSS.
 /* This prevents horizontal scroll */
 html, body {
   height: 100%;
